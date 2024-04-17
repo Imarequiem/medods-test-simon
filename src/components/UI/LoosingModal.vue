@@ -26,5 +26,5 @@ export default {
 </script>
 
 <style scoped>
-@import url("@/styles/components/LostModal.css");
+@import url("@/styles/components/UI/LoosingModal.css");
 </style>
